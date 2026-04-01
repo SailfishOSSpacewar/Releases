@@ -20,14 +20,15 @@ Current status :
 - [x] Shutdown / Reboot
 - [x] Auto-rotation
 - [x] Secure lockscreen
-- [x] Camera (front & back) to take photos only! Video recording is broken
+- [x] Camera (front & back)
+- [x] Video recording (front & back)
 - [x] Sensors (Accelerometer/Gyroscope)
+- [x] Audio
+- [x] Microphone
 
 Not working :
-- [ ] Audio
 - [ ] Vibration
 - [ ] Tap/double tap to wake
-- [ ] Video recording
 - [ ] Waydroid
 
 Untested :
@@ -35,7 +36,6 @@ Untested :
 - [ ] VoLTE (should work)
 - [ ] Mobile data (should work)
 - [ ] GPS
-- [ ] Microphone
 
 Things that can't likely be fixed :
 - [ ] UDFPS (Underdispay fingerprint)
